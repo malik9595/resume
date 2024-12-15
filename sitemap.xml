@@ -6,4 +6,19 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+  <loc>https://malik9595.github.io/resume/academics.html</loc>
+  <lastmod>2024-12-15T01:23:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://malik9595.github.io/resume/index.html</loc>
+  <lastmod>2024-12-15T01:23:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://malik9595.github.io/resume/project.html</loc>
+  <lastmod>2024-12-15T01:23:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 </urlset>
